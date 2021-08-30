@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiscisneros356
 - 👀 I’m interested in Mobile Development with Flutter
-- 🌱 I’m currently learning FLutter and Dart
+- 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
 
